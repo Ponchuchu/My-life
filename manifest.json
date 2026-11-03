@@ -1,0 +1,9 @@
+{
+  "id": "vault-sync-claude",
+  "name": "Vault Sync for Claude",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Syncs your vault with a personal Supabase-backed MCP connector so Claude can search, read and write your notes. Works on mobile.",
+  "author": "Danil",
+  "isDesktopOnly": false
+}
